@@ -1,0 +1,9 @@
+* functional-json
+
+Adds utilities to make working with JSON at the REPL easier and to make using JSON RPC APIs convenient.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/jl2/functional-json.git            |
+| commit  | 0000000                                                    |
+| systems | functional-json functional-json.test                      |
+|---------+------------------------------------------------------------|
