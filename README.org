@@ -4,7 +4,7 @@ Adds utilities to make working with JSON at the REPL easier and to make using JS
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/jl2/functional-json.git            |
-| commit  | 3bc16f5                                                    |
+| commit  | 4e72d2c                                                    |
 | systems | functional-json functional-json.test                      |
 |---------+------------------------------------------------------------|
  
